@@ -6,7 +6,7 @@ import datetime
 
 from requests import RequestException
 
-# Git test
+# Git tesr
 def write_error_log(log_data):
     with open("error.log", "a", encoding="utf-8") as file:
         error_text = f"{log_data.get('city')} | {log_data.get('status_code')} | {log_data.get('timestamp')} | {log_data.get('message')}\n"

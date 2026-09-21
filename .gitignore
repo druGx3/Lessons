@@ -1,0 +1,7 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+.env
+planner/error.log
+planner/weather.csv

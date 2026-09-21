@@ -1,0 +1,44 @@
+[
+    {
+        "name": "SQL",
+        "plan": 200,
+        "complete": 50,
+        "date": "2026-09-25",
+        "id": "cd12dceb-8585-44d4-8c1a-0ed8155e1e50"
+    },
+    {
+        "name": "Pandas",
+        "plan": 80,
+        "complete": 20,
+        "date": "2026-08-28",
+        "id": "148c9bc0-6ed5-4069-a863-14e026208201"
+    },
+    {
+        "name": "Sport",
+        "plan": 50,
+        "complete": 30,
+        "date": "2026-08-28",
+        "id": "0e1f8fdb-bed1-443c-83d0-f6b916aa6a51"
+    },
+    {
+        "name": "docker",
+        "plan": 20,
+        "complete": 1,
+        "date": "2026-08-28",
+        "id": "77a4a0b9-3944-443b-8bd7-51806b8c9d9d"
+    },
+    {
+        "name": "Basher",
+        "plan": 10,
+        "complete": 2,
+        "date": "2026-08-30",
+        "id": "25ad16e4-baed-4c4c-b870-760aef850df9"
+    },
+    {
+        "name": "Airflow",
+        "plan": 120,
+        "complete": 40,
+        "date": "2026-09-28",
+        "id": "7ca06d5e-8cf0-44f0-b946-f6c996b4a9dc"
+    }
+]

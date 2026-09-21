@@ -6,6 +6,7 @@ import datetime
 
 from requests import RequestException
 
+# Git test
 def write_error_log(log_data):
     with open("error.log", "a", encoding="utf-8") as file:
         error_text = f"{log_data.get('city')} | {log_data.get('status_code')} | {log_data.get('timestamp')} | {log_data.get('message')}\n"
@@ -63,7 +64,7 @@ load_dotenv()
 
 api_key = os.getenv("WEATHER_API_KEY")
 
-url = "https://api.weatherapi231.com/v1/current.json"
+url = "https://api.weatherapi.com/v1/current.json"
 
 city = "Saint Petersburg"
 
